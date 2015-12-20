@@ -1,16 +1,16 @@
-Code Book
+#Code Book
 
 This code book summarizes the resulting data fields in "Tidy_Data.txt" as a part of course project of Getting and Cleaning Data.
 
 
-Identifiers
+##Identifiers
 
 
 
-Measurements
+##Measurements
 
 
-Activity Labels
+##Activity Labels
 
 1 WALKING
 
