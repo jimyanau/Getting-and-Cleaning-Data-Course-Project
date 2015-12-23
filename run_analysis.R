@@ -88,4 +88,4 @@ melt_data = melt(DF_CombinedData, id = ID_labels, measure.vars = Data_labels)
 tidy_data = dcast(melt_data, Subject + Activity_Label ~ variable, mean)
 
 ## output tidy data to a text file
-write.table(tidy_data, file = "tidy.txt", sep="\t")
+write.table(tidy_data, file = "tidy.txt")
