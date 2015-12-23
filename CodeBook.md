@@ -43,16 +43,19 @@ In this dataset, these signals from tracking device were used to estimate variab
     fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
+
     Mean: Mean value
     STD: Standard deviation
+
 Please notice that the average value of above variables were used as a summary in this dataset.
 
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle variable:
-gravityMean
-tBodyAccMean
-tBodyAccJerkMean
-tBodyGyroMean
-tBodyGyroJerkMean
+
+    gravityMean
+    tBodyAccMean
+    tBodyAccJerkMean
+    tBodyGyroMean
+    tBodyGyroJerkMean
 
 You may referto the README and features.txt files in the original dataset to learn more about the feature selection for this dataset.
