@@ -18,4 +18,4 @@ The R script, "run_analysis.R", does the following:
 
 6. From the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The end result is saved in a file named "Tidy.txt"
+The end result is saved in a file named "tidy.txt"
